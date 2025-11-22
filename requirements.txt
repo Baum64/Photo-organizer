@@ -1,0 +1,11 @@
+# Required dependencies
+Pillow>=10.0.0
+
+# Optional: HEIC support
+# pillow-heif>=0.13.0
+
+# Note: FFmpeg (ffprobe) is optional for video metadata extraction
+# Install separately:
+# - Windows: winget install FFmpeg
+# - macOS: brew install ffmpeg
+# - Linux: sudo apt install ffmpeg
